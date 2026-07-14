@@ -1,9 +1,9 @@
 {
-  "name": "PT Pharmacology — NPTE 2026",
+  "name": "PT Pharmacology — 2026",
   "short_name": "PT Pharm",
-  "description": "NPTE PT 약물 레퍼런스 — PT Clinical Scenarios & Red Flags",
-  "start_url": "/",
-  "scope": "/",
+  "description": "PT 약물 레퍼런스 — PT Clinical Scenarios & Red Flags",
+  "start_url": "/pt-pharm/",
+  "scope": "/pt-pharm/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#0f1117",
@@ -34,5 +34,6 @@
       "type": "image/png",
       "purpose": "maskable"
     }
-  ]
+  ],
+  "id": "/pt-pharm/"
 }
