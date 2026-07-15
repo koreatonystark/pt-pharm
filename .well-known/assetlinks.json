@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "io.github.koreatonystark.twa",
-        "sha256_cert_fingerprints": ["2D:5E:83:57:3E:1A:61:00:B2:F4:2E:4E:97:2D:4E:0F:EF:A4:69:6A:C2:0F:A0:34:97:11:A7:26:B4:8A:E4:F6"]
+        "sha256_cert_fingerprints": ["34:38:30:38:B0:5C:1C:EB:A6:54:1E:3D:EC:32:AA:D2:B8:09:27:45:A2:8F:F6:D0:F9:49:B6:5E:33:B5:A9:F6"]
       }
     }]
